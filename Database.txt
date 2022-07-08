@@ -1,0 +1,8 @@
+Lecturers wage
+Name	Hours	Rate		
+Tuan	20	250000	
+Lan	10	210000		
+Hue	30	210000	
+Anh	6	210000	
+Toan	3	250000		
+Hoang	15	250000		
